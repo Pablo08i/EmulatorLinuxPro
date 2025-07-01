@@ -1,0 +1,2 @@
+#!/data/data/com.emuladorlinuxpro/files/proot -0 -w /root -r /data/data/com.emuladorlinuxpro/files/ubuntu-rootfs \
+    /usr/bin/env -i HOME=/root TERM=xterm PATH=/bin:/usr/bin:/sbin:/usr/sbin /bin/bash --login
